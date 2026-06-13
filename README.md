@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # GenWeb  
 GenWeb is an AI-powered website builder built with Next.js, designed to streamline web development using modern tools like Clerk for authentication and Supabase for data storage.  
 
@@ -52,3 +53,7 @@ GenWeb generates complete websites using user inputs, leveraging AI to bring ide
 
 For more details, visit the [GitHub Repository](#).  
 
+=======
+# GenWeb
+GenWeb is an AI-powered website builder built with Next.js, designed to streamline web development using modern tools like Clerk for authentication and Supabase for data storage.
+>>>>>>> 579cfb92cd87d0eec103b818df4500a84f8c78a1
